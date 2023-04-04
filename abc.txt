@@ -5,4 +5,8 @@ sujay thakur
 merge conflict resolved 
 
 
+
 in sub branch 
+
+Master has done some changes
+
